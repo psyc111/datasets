@@ -1,0 +1,51 @@
+﻿region,toppings,toppings5plus,price,temp,temp75plus,gender,time,rating
+Hipster,0,0,2.27,60,0,male,lunch,3
+Hipster,5,1,6.96,73,0,female,lunch,2
+Hipster,0,0,8.73,75,1,male,lunch,3
+Hipster,7,1,9.25,55,0,male,lunch,4
+Hipster,6,1,10.37,66,0,female,lunch,4
+Hipster,7,1,12.38,79,1,female,lunch,5
+Hipster,7,1,13.11,85,1,female,lunch,5
+Hipster,3,0,13.38,89,1,male,lunch,4
+Hipster,8,1,13.45,58,0,male,lunch,2
+Hipster,3,0,14.3,56,0,male,dinner,3
+Hipster,4,0,15,88,1,male,dinner,1
+Hipster,7,1,15.48,73,0,female,dinner,4
+Hipster,4,0,15.72,81,1,female,dinner,2
+Hipster,5,1,16.51,77,1,male,dinner,3
+Hipster,4,0,17.48,75,1,female,dinner,4
+Hipster,6,1,17.93,70,0,female,dinner,5
+Hipster,7,1,17.98,59,0,male,dinner,5
+Hipster,8,1,18.07,90,1,male,dinner,4
+Hipster,4,0,18.63,71,0,male,dinner,2
+Hipster,7,1,19.03,88,1,male,dinner,4
+Hipster,8,1,19.57,83,1,female,dinner,3
+Hipster,4,0,19.58,66,0,female,dinner,4
+Hipster,8,1,19.73,77,1,male,dinner,4
+Hipster,7,1,20.55,93,1,male,dinner,5
+Hipster,8,1,21.64,87,1,female,dinner,5
+Working Class,0,0,6.88,59,0,male,lunch,2
+Working Class,0,0,6.9,67,0,female,lunch,3
+Working Class,5,1,7.79,67,0,male,lunch,2
+Working Class,0,0,9.12,85,1,male,lunch,1
+Working Class,8,1,10.29,55,0,female,lunch,3
+Working Class,0,0,10.32,90,1,female,lunch,2
+Working Class,1,0,11.27,57,0,female,lunch,3
+Working Class,1,0,12.12,73,0,male,lunch,4
+Working Class,5,1,12.37,92,1,male,lunch,5
+Working Class,4,0,12.79,82,1,male,lunch,3
+Working Class,5,1,12.85,90,1,female,lunch,4
+Working Class,4,0,12.88,86,1,female,lunch,4
+Working Class,3,0,13.22,68,0,female,lunch,2
+Working Class,3,0,13.38,72,0,male,lunch,4
+Working Class,3,0,13.97,58,0,male,dinner,3
+Working Class,3,0,14.16,53,0,male,dinner,4
+Working Class,6,1,14.44,84,1,female,dinner,5
+Working Class,5,1,14.52,58,0,male,dinner,1
+Working Class,4,0,15.37,79,1,male,dinner,4
+Working Class,4,0,15.91,64,0,male,dinner,4
+Working Class,7,1,16.28,79,1,male,dinner,5
+Working Class,4,0,17.02,88,1,male,dinner,1
+Working Class,7,1,17.55,77,1,female,dinner,3
+Working Class,6,1,18.11,64,0,female,dinner,2
+Working Class,7,1,19.36,58,0,female,dinner,5

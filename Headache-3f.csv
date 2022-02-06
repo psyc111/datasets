@@ -1,0 +1,181 @@
+﻿Alcohol Consumption,Treatment,Drinking History,Headache
+High,Activated Charcoal,Heavy,59
+High,Activated Charcoal,Light,42
+High,Activated Charcoal,Heavy,37
+High,Activated Charcoal,Light,58
+High,Activated Charcoal,Heavy,60
+High,Activated Charcoal,Light,36
+High,Activated Charcoal,Heavy,43
+High,Activated Charcoal,Light,51
+High,Activated Charcoal,Heavy,31
+High,Activated Charcoal,Light,54
+High,Activated Charcoal,Heavy,48
+High,Activated Charcoal,Light,46
+High,Activated Charcoal,Heavy,68
+High,Activated Charcoal,Light,51
+High,Activated Charcoal,Heavy,57
+High,Activated Charcoal,Light,38
+High,Activated Charcoal,Heavy,37
+High,Activated Charcoal,Light,66
+High,Activated Charcoal,Heavy,38
+High,Activated Charcoal,Light,44
+High,B12,Heavy,49
+High,B12,Light,67
+High,B12,Heavy,54
+High,B12,Light,62
+High,B12,Heavy,52
+High,B12,Light,45
+High,B12,Heavy,56
+High,B12,Light,62
+High,B12,Heavy,55
+High,B12,Light,56
+High,B12,Heavy,44
+High,B12,Light,50
+High,B12,Heavy,46
+High,B12,Light,67
+High,B12,Heavy,58
+High,B12,Light,74
+High,B12,Heavy,52
+High,B12,Light,60
+High,B12,Heavy,40
+High,B12,Light,58
+High,Placebo,Heavy,80
+High,Placebo,Light,60
+High,Placebo,Heavy,71
+High,Placebo,Light,79
+High,Placebo,Heavy,77
+High,Placebo,Light,76
+High,Placebo,Heavy,66
+High,Placebo,Light,74
+High,Placebo,Heavy,64
+High,Placebo,Light,74
+High,Placebo,Heavy,72
+High,Placebo,Light,75
+High,Placebo,Heavy,79
+High,Placebo,Light,95
+High,Placebo,Heavy,63
+High,Placebo,Light,84
+High,Placebo,Heavy,81
+High,Placebo,Light,79
+High,Placebo,Heavy,77
+High,Placebo,Light,85
+Medium,Activated Charcoal,Heavy,37
+Medium,Activated Charcoal,Light,61
+Medium,Activated Charcoal,Heavy,32
+Medium,Activated Charcoal,Light,44
+Medium,Activated Charcoal,Heavy,30
+Medium,Activated Charcoal,Light,29
+Medium,Activated Charcoal,Heavy,37
+Medium,Activated Charcoal,Light,36
+Medium,Activated Charcoal,Heavy,30
+Medium,Activated Charcoal,Light,35
+Medium,Activated Charcoal,Heavy,60
+Medium,Activated Charcoal,Light,40
+Medium,Activated Charcoal,Heavy,38
+Medium,Activated Charcoal,Light,35
+Medium,Activated Charcoal,Heavy,32
+Medium,Activated Charcoal,Light,31
+Medium,Activated Charcoal,Heavy,43
+Medium,Activated Charcoal,Light,42
+Medium,Activated Charcoal,Heavy,35
+Medium,Activated Charcoal,Light,49
+Medium,B12,Heavy,39
+Medium,B12,Light,46
+Medium,B12,Heavy,41
+Medium,B12,Light,37
+Medium,B12,Heavy,47
+Medium,B12,Light,44
+Medium,B12,Heavy,28
+Medium,B12,Light,26
+Medium,B12,Heavy,53
+Medium,B12,Light,51
+Medium,B12,Heavy,36
+Medium,B12,Light,31
+Medium,B12,Heavy,46
+Medium,B12,Light,53
+Medium,B12,Heavy,42
+Medium,B12,Light,40
+Medium,B12,Heavy,47
+Medium,B12,Light,46
+Medium,B12,Heavy,52
+Medium,B12,Light,39
+Medium,Placebo,Heavy,38
+Medium,Placebo,Light,54
+Medium,Placebo,Heavy,49
+Medium,Placebo,Light,37
+Medium,Placebo,Heavy,40
+Medium,Placebo,Light,55
+Medium,Placebo,Heavy,42
+Medium,Placebo,Light,60
+Medium,Placebo,Heavy,46
+Medium,Placebo,Light,46
+Medium,Placebo,Heavy,37
+Medium,Placebo,Light,36
+Medium,Placebo,Heavy,39
+Medium,Placebo,Light,51
+Medium,Placebo,Heavy,44
+Medium,Placebo,Light,47
+Medium,Placebo,Heavy,25
+Medium,Placebo,Light,52
+Medium,Placebo,Heavy,31
+Medium,Placebo,Light,34
+Low,Activated Charcoal,Heavy,4
+Low,Activated Charcoal,Light,12
+Low,Activated Charcoal,Heavy,2
+Low,Activated Charcoal,Light,7
+Low,Activated Charcoal,Heavy,10
+Low,Activated Charcoal,Light,4
+Low,Activated Charcoal,Heavy,7
+Low,Activated Charcoal,Light,17
+Low,Activated Charcoal,Heavy,10
+Low,Activated Charcoal,Light,0
+Low,Activated Charcoal,Heavy,13
+Low,Activated Charcoal,Light,1
+Low,Activated Charcoal,Heavy,7
+Low,Activated Charcoal,Light,0
+Low,Activated Charcoal,Heavy,3
+Low,Activated Charcoal,Light,2
+Low,Activated Charcoal,Heavy,0
+Low,Activated Charcoal,Light,22
+Low,Activated Charcoal,Heavy,0
+Low,Activated Charcoal,Light,0
+Low,B12,Heavy,0
+Low,B12,Light,0
+Low,B12,Heavy,5
+Low,B12,Light,9
+Low,B12,Heavy,0
+Low,B12,Light,2
+Low,B12,Heavy,12
+Low,B12,Light,0
+Low,B12,Heavy,3
+Low,B12,Light,7
+Low,B12,Heavy,12
+Low,B12,Light,12
+Low,B12,Heavy,0
+Low,B12,Light,0
+Low,B12,Heavy,0
+Low,B12,Light,0
+Low,B12,Heavy,7
+Low,B12,Light,0
+Low,B12,Heavy,15
+Low,B12,Light,1
+Low,Placebo,Heavy,1
+Low,Placebo,Light,11
+Low,Placebo,Heavy,6
+Low,Placebo,Light,9
+Low,Placebo,Heavy,1
+Low,Placebo,Light,3
+Low,Placebo,Heavy,0
+Low,Placebo,Light,10
+Low,Placebo,Heavy,0
+Low,Placebo,Light,26
+Low,Placebo,Heavy,2
+Low,Placebo,Light,4
+Low,Placebo,Heavy,8
+Low,Placebo,Light,11
+Low,Placebo,Heavy,16
+Low,Placebo,Light,0
+Low,Placebo,Heavy,0
+Low,Placebo,Light,7
+Low,Placebo,Heavy,7
+Low,Placebo,Light,1

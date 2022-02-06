@@ -1,0 +1,92 @@
+﻿music,words,mem_rate,gender,age,height_in,Gettysberg,type,major
+music,5,60,female,26,53,no,pop,Soc Sci
+music,9,80,female,20,57,no,metal,Arts and Hum
+music,9,60,female,21,59,no,metal,Soc Sci
+music,10,10,female,21,59,no,metal,Arts and Hum
+no music,10,50,female,20,59,no,silence,STEM
+no music,10,70,female,22,59,no,silence,Business
+music,5,30,male,24,60,no,pop,Business
+music,9,30,male,25,60,no,metal,Business
+music,10,40,female,20,60,no,classical,Soc Sci
+music,13,80,male,24,60,no,classical,Arts and Hum
+no music,7,55,female,21,60,no,silence,Soc Sci
+no music,10,40,female,20,60,no,silence,Arts and Hum
+no music,10,75,female,20,60,no,silence,STEM
+no music,9,5,female,21,60,no,silence,Business
+no music,9,45,female,22,60,no,silence,STEM
+no music,10,45,female,22,60,no,silence,Business
+no music,10,70,female,22,60,no,silence,Soc Sci
+no music,10,50,female,25,60,no,silence,Arts and Hum
+no music,9,70,female,21,60,no,silence,STEM
+no music,10,50,female,22,60,no,silence,Business
+music,6,50,female,21,61,no,pop,Soc Sci
+music,8,70,female,20,61,no,metal,Arts and Hum
+music,9,70,female,21,61,no,metal,STEM
+music,9,50,female,29,61,no,metal,Soc Sci
+music,10,10,female,43,61,no,metal,Arts and Hum
+music,15,40,female,19,61,no,classical,STEM
+music,15,70,female,21,61,no,classical,Business
+music,10,50,female,24,61,no,classical,Business
+music,10,60,female,20,61,no,classical,Soc Sci
+no music,0,70,female,21,61,no,silence,Arts and Hum
+no music,10,80,female,22,61,no,silence,Soc Sci
+no music,10,75,female,21,61,yes,silence,Arts and Hum
+music,14,65,female,19,62,no,classical,STEM
+music,10,40,female,20,62,no,classical,Business
+no music,0,30,female,23,62,no,silence,Soc Sci
+no music,7,20,female,21,62,no,silence,Arts and Hum
+no music,10,55,female,23,62,no,silence,STEM
+no music,13,70,female,19,62,no,silence,Soc Sci
+music,0,35,female,25,63,no,pop,Arts and Hum
+music,1,5,female,21,63,no,pop,STEM
+music,6,20,female,25,63,no,pop,Business
+music,7,20,female,20,63,no,metal,Arts and Hum
+no music,5,60,female,20,63,no,silence,Soc Sci
+no music,6,50,female,21,63,no,silence,Arts and Hum
+no music,15,40,female,20,63,no,silence,STEM
+music,0,50,female,20,64,no,pop,Business
+music,0,20,female,43,64,no,pop,STEM
+music,9,40,female,20,64,no,metal,Soc Sci
+music,10,10,female,24,64,no,metal,Arts and Hum
+music,10,25,female,21,64,no,classical,STEM
+music,10,80,female,20,64,no,classical,Business
+no music,6,49,female,19,64,no,silence,Business
+music,10,80,female,20,65,no,classical,Soc Sci
+music,10,50,female,21,65,no,classical,Arts and Hum
+music,10,70,male,23,65,no,classical,Soc Sci
+music,10,65,female,21,65,no,classical,Arts and Hum
+no music,0,60,female,28,65,no,silence,STEM
+no music,1,45,female,21,65,yes,silence,Business
+no music,7,50,female,21,65,no,silence,STEM
+no music,8,50,female,20,65,no,silence,Soc Sci
+no music,9,20,female,24,65,no,silence,Arts and Hum
+no music,9,70,female,25,65,no,silence,STEM
+no music,10,60,female,21,65,no,silence,Soc Sci
+no music,10,45,female,20,65,no,silence,Arts and Hum
+no music,15,50,female,20,65,no,silence,STEM
+no music,15,70,male,21,66,no,silence,Business
+no music,10,40,female,22,66,no,silence,STEM
+no music,15,60,female,23,66,no,silence,Business
+music,10,40,female,23,67,no,classical,Soc Sci
+no music,8,70,female,36,67,no,silence,Arts and Hum
+no music,10,15,female,27,67,no,silence,Soc Sci
+no music,10,50,female,23,67,no,silence,Arts and Hum
+music,3,60,male,20,68,no,pop,STEM
+no music,9,45,female,21,68,yes,silence,Business
+music,8,25,male,28,69,no,metal,Arts and Hum
+no music,10,51,male,26,69,no,silence,STEM
+no music,10,60,female,20,69,no,silence,Business
+no music,10,65,male,20,69,no,silence,Arts and Hum
+no music,6,50,male,22,70,no,silence,STEM
+music,6,40,male,23,71,no,pop,Business
+music,7,40,male,27,71,no,metal,Soc Sci
+music,10,75,female,41,71,no,metal,Arts and Hum
+music,10,70,female,20,71,no,classical,STEM
+no music,5,30,male,20,71,no,silence,Business
+music,7,30,male,20,72,no,metal,Soc Sci
+no music,3,5,male,22,72,no,silence,Arts and Hum
+no music,10,80,female,32,72,no,silence,STEM
+no music,10,75,male,20,72,no,silence,Soc Sci
+no music,14,50,male,23,72,no,silence,Arts and Hum
+music,14,45,male,24,73,no,classical,STEM
+music,10,10,female,24,73,no,classical,Business
