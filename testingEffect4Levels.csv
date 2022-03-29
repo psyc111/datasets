@@ -1,0 +1,111 @@
+Subject,Gender,Age,Race,English,AgeEnglish,condNum,condition,condDes,Initial,Final,Forgotten,Remembered,Delay
+1,Female,28,Asian/Pacific Islander,Fluent,0,1,SSS,No Initial Tests,,2,,,47
+2,Male,24,Other/unknown,Fluent,0,1,SSS,No Initial Tests,,6,,,47
+5,Male,22,Other/unknown,Fluent,4,1,SSS,No Initial Tests,,2,,,46
+8,Female,21,Asian/Pacific Islander,Fluent,5,1,SSS,No Initial Tests,,1,,,47
+16,Male,21,Asian/Pacific Islander,Fluent,0,1,SSS,No Initial Tests,,14,,,74
+17,Female,21,White,Fluent,0,1,SSS,No Initial Tests,,17,,,51
+20,Female,20,Other/unknown,Fluent,4,1,SSS,No Initial Tests,,6,,,45
+26,Female,20,Asian/Pacific Islander,Fluent,0,1,SSS,No Initial Tests,,4,,,50
+34,Female,21,Other/unknown,Fluent,6,1,SSS,No Initial Tests,,4,,,45
+36,Female,25,White,Fluent,18,1,SSS,No Initial Tests,,2,,,54
+40,Female,20,Asian/Pacific Islander,Fluent,6,1,SSS,No Initial Tests,,6,,,55
+44,Female,19,Asian/Pacific Islander,Fluent,1,1,SSS,No Initial Tests,,0,,,83
+49,Female,19,Asian/Pacific Islander,Fluent,3,1,SSS,No Initial Tests,,8,,,53
+53,Female,19,Other/unknown,Fluent,7,1,SSS,No Initial Tests,,11,,,50
+58,Female,19,Other/unknown,Fluent,4,1,SSS,No Initial Tests,,4,,,52
+64,Female,19,Asian/Pacific Islander,Fluent,3,1,SSS,No Initial Tests,,12,,,50
+68,Female,20,Asian/Pacific Islander,Fluent,6,1,SSS,No Initial Tests,,19,,,52
+69,Female,19,Other/unknown,Fluent,0,1,SSS,No Initial Tests,,4,,,51
+71,Female,19,Asian/Pacific Islander,Fluent,4,1,SSS,No Initial Tests,,10,,,55
+76,Female,19,Other/unknown,Fluent,0,1,SSS,No Initial Tests,,10,,,52
+84,Female,21,Asian/Pacific Islander,Non-Fluent,3,1,SSS,No Initial Tests,,4,,,55
+86,Female,20,Asian/Pacific Islander,Fluent,7,1,SSS,No Initial Tests,,1,,,49
+96,Female,20,White,Fluent,0,1,SSS,No Initial Tests,,11,,,56
+97,Female,23,Black,Fluent,0,1,SSS,No Initial Tests,,4,,,52
+100,Female,21,Asian/Pacific Islander,Fluent,0,1,SSS,No Initial Tests,,10,,,52
+104,Female,23,Asian/Pacific Islander,Fluent,12,1,SSS,No Initial Tests,,6,,,45
+108,Female,21,Asian/Pacific Islander,Fluent,0,1,SSS,No Initial Tests,,3,,,78
+110,Female,20,White,Fluent,0,1,SSS,No Initial Tests,,1,,,76
+112,Female,20,Asian/Pacific Islander,Fluent,8,1,SSS,No Initial Tests,,2,,,73
+3,Male,23,Asian/Pacific Islander,Fluent,3,2,SST,One Initial Test,19,14,5,0.74,47
+4,Female,22,Asian/Pacific Islander,Fluent,3,2,SST,One Initial Test,7,9,-2,1.29,55
+6,Female,20,Other/unknown,Fluent,,2,SST,One Initial Test,20,15,5,0.75,45
+10,Male,21,Asian/Pacific Islander,Fluent,0,2,SST,One Initial Test,13,10,3,0.77,52
+12,Male,21,White,Fluent,0,2,SST,One Initial Test,10,8,2,0.8,48
+14,Female,21,Asian/Pacific Islander,Fluent,0,2,SST,One Initial Test,20,10,10,0.5,50
+18,Female,24,Asian/Pacific Islander,Fluent,3,2,SST,One Initial Test,12,6,6,0.5,152
+21,Male,20,White,Fluent,0,2,SST,One Initial Test,21,18,3,0.86,64
+22,Male,20,Asian/Pacific Islander,Fluent,0,2,SST,One Initial Test,6,6,0,1,85
+25,Male,20,Other/unknown,Fluent,5,2,SST,One Initial Test,7,3,4,0.43,45
+29,Female,20,Black,Fluent,0,2,SST,One Initial Test,16,12,4,0.75,47
+33,Female,25,White,Fluent,0,2,SST,One Initial Test,20,17,3,0.85,105
+37,Female,20,Asian/Pacific Islander,Fluent,8,2,SST,One Initial Test,4,3,1,0.75,58
+38,Male,19,White,Fluent,0,2,SST,One Initial Test,5,3,2,0.6,104
+42,Female,19,White,Fluent,0,2,SST,One Initial Test,10,3,7,0.3,57
+45,Male,20,White,Fluent,0,2,SST,One Initial Test,4,2,2,0.5,108
+56,Female,19,White,Fluent,0,2,SST,One Initial Test,10,7,3,0.7,55
+59,Female,19,Asian/Pacific Islander,Fluent,6,2,SST,One Initial Test,10,4,6,0.4,58
+63,Female,19,Other/unknown,Fluent,0,2,SST,One Initial Test,6,3,3,0.5,55
+67,Female,19,White,Fluent,2,2,SST,One Initial Test,17,13,4,0.76,59
+72,Female,19,Asian/Pacific Islander,Fluent,0,2,SST,One Initial Test,22,20,2,0.91,52
+73,Female,19,White,Fluent,0,2,SST,One Initial Test,20,12,8,0.6,51
+81,Male,25,Asian/Pacific Islander,Fluent,6,2,SST,One Initial Test,19,6,13,0.32,83
+103,Male,27,Other/unknown,Fluent,3,2,SST,One Initial Test,3,3,0,1,62
+114,Male,20,Asian/Pacific Islander,Fluent,6,2,SST,One Initial Test,7,3,4,0.43,61
+115,Female,26,Other/unknown,Fluent,5,2,SST,One Initial Test,13,7,6,0.54,101
+7,Male,21,Asian/Pacific Islander,Fluent,5,3,STS,"One Initial Test, with Restudy",9,7,2,0.78,52
+9,Female,21,Asian/Pacific Islander,Fluent,3,3,STS,"One Initial Test, with Restudy",5,5,0,1,50
+11,Female,21,Other/unknown,Fluent,5,3,STS,"One Initial Test, with Restudy",8,11,-3,1.38,56
+23,Female,20,Other/unknown,Fluent,5,3,STS,"One Initial Test, with Restudy",6,4,2,0.67,52
+27,Female,20,Asian/Pacific Islander,Fluent,0,3,STS,"One Initial Test, with Restudy",9,7,2,0.78,53
+28,Female,20,Asian/Pacific Islander,Fluent,7,3,STS,"One Initial Test, with Restudy",2,6,-4,3,50
+30,Female,20,Asian/Pacific Islander,Fluent,10,3,STS,"One Initial Test, with Restudy",5,7,-2,1.4,47
+35,Female,21,Asian/Pacific Islander,Fluent,7,3,STS,"One Initial Test, with Restudy",4,8,-4,2,53
+41,Male,19,Asian/Pacific Islander,Fluent,6,3,STS,"One Initial Test, with Restudy",3,2,1,0.67,41
+43,Female,18,Asian/Pacific Islander,Fluent,5,3,STS,"One Initial Test, with Restudy",11,14,-3,1.27,51
+46,Male,18,Asian/Pacific Islander,Fluent,4,3,STS,"One Initial Test, with Restudy",5,6,-1,1.2,48
+50,Female,19,Asian/Pacific Islander,Fluent,0,3,STS,"One Initial Test, with Restudy",8,10,-2,1.25,67
+55,Female,19,Asian/Pacific Islander,Fluent,2,3,STS,"One Initial Test, with Restudy",4,9,-5,2.25,62
+57,Female,19,White,Fluent,0,3,STS,"One Initial Test, with Restudy",17,20,-3,1.18,64
+60,Male,19,Asian/Pacific Islander,Fluent,3,3,STS,"One Initial Test, with Restudy",13,6,7,0.46,113
+61,Male,19,Asian/Pacific Islander,Fluent,0,3,STS,"One Initial Test, with Restudy",3,9,-6,3,50
+65,Male,19,Other/unknown,Fluent,9,3,STS,"One Initial Test, with Restudy",4,7,-3,1.75,50
+70,Female,19,White,Fluent,5,3,STS,"One Initial Test, with Restudy",3,3,0,1,63
+75,Female,19,Other/unknown,Fluent,5,3,STS,"One Initial Test, with Restudy",1,2,-1,2,53
+77,Female,19,Asian/Pacific Islander,Fluent,8,3,STS,"One Initial Test, with Restudy",11,15,-4,1.36,52
+79,Female,18,Other/unknown,Fluent,3,3,STS,"One Initial Test, with Restudy",7,10,-3,1.43,57
+82,Female,21,White,Fluent,0,3,STS,"One Initial Test, with Restudy",17,20,-3,1.18,45
+88,Female,20,White,Fluent,0,3,STS,"One Initial Test, with Restudy",14,17,-3,1.21,52
+98,Female,24,White,Fluent,0,3,STS,"One Initial Test, with Restudy",4,4,0,1,48
+105,Male,20,Asian/Pacific Islander,Fluent,6,3,STS,"One Initial Test, with Restudy",6,3,3,0.5,145
+106,Male,21,White,Fluent,0,3,STS,"One Initial Test, with Restudy",6,3,3,0.5,86
+107,Male,21,Asian/Pacific Islander,Fluent,6,3,STS,"One Initial Test, with Restudy",5,9,-4,1.8,45
+109,Female,20,White,Fluent,0,3,STS,"One Initial Test, with Restudy",10,6,4,0.6,85
+111,Female,20,Asian/Pacific Islander,Fluent,9,3,STS,"One Initial Test, with Restudy",3,11,-8,3.67,53
+13,Female,22,White,Fluent,0,4,STT,Two Initial Tests,4.5,2,2.5,0.44,48
+15,Male,21,White,Fluent,5,4,STT,Two Initial Tests,4,3,1,0.75,48
+24,Female,20,Other/unknown,Fluent,5,4,STT,Two Initial Tests,6.5,7,-0.5,1.08,84
+31,Female,22,Asian/Pacific Islander,Fluent,5,4,STT,Two Initial Tests,7,7,0,1,48
+32,Male,20,White,Fluent,0,4,STT,Two Initial Tests,11.5,12,-0.5,1.04,52
+39,Male,19,White,Fluent,0,4,STT,Two Initial Tests,12,12,0,1,66
+47,Female,19,White,Fluent,0,4,STT,Two Initial Tests,8.5,6,2.5,0.71,75
+48,Female,19,White,Fluent,0,4,STT,Two Initial Tests,15.5,17,-1.5,1.1,52
+51,Female,19,Asian/Pacific Islander,Fluent,0,4,STT,Two Initial Tests,18.5,16,2.5,0.86,55
+54,Female,19,Other/unknown,Fluent,0,4,STT,Two Initial Tests,2.5,3,-0.5,1.2,52
+62,Female,18,Asian/Pacific Islander,Fluent,0,4,STT,Two Initial Tests,9.5,8,1.5,0.84,45
+66,Female,19,Other/unknown,Fluent,4,4,STT,Two Initial Tests,4,5,-1,1.25,53
+74,Female,19,Other/unknown,Fluent,0,4,STT,Two Initial Tests,5,5,0,1,58
+78,Female,19,Other/unknown,Fluent,3,4,STT,Two Initial Tests,2.5,2,0.5,0.8,51
+80,Female,18,Other/unknown,Fluent,4,4,STT,Two Initial Tests,3,2,1,0.67,60
+83,Male,21,Asian/Pacific Islander,Fluent,7,4,STT,Two Initial Tests,4,2,2,0.5,105
+85,Male,26,White,Fluent,1,4,STT,Two Initial Tests,3.5,2,1.5,0.57,47
+87,Male,20,White,Fluent,0,4,STT,Two Initial Tests,2,1,1,0.5,104
+91,Female,23,Other/unknown,Fluent,5,4,STT,Two Initial Tests,1,0,1,0,52
+92,Male,21,White,Fluent,0,4,STT,Two Initial Tests,12.5,10,2.5,0.8,52
+93,Male,21,Asian/Pacific Islander,Non-Fluent,12,4,STT,Two Initial Tests,10,3,7,0.3,47
+94,Male,20,Other/unknown,Fluent,8,4,STT,Two Initial Tests,5.5,5,0.5,0.91,46
+95,Female,20,Other/unknown,Fluent,4,4,STT,Two Initial Tests,4,4,0,1,51
+101,Male,21,Other/unknown,Fluent,2,4,STT,Two Initial Tests,7,4,3,0.57,132
+102,Female,18,Asian/Pacific Islander,Fluent,3,4,STT,Two Initial Tests,9,8,1,0.89,52
+113,Female,20,Other/unknown,Fluent,0,4,STT,Two Initial Tests,3,3,0,1,48
