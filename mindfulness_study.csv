@@ -1,4 +1,4 @@
-﻿"Group (A = app, B = waitlist)",Age,"Sex (1 = male, 2 = female)",SWLS baseline,SWLS day 10,SWLS day 30,PSS baseline,PSS day 10,PSS day 30,RWS baseline,RWS day 10,RWS day 30,GHQ,daysUsingApp
+﻿"Group (A = app, B = waitlist)",Age,"Sex (1 = male, 2 = female)",SWLS baseline,SWLS day 10,SWLS day 30,PSS baseline,PSS day 10,PSS day 30,WRS baseline,WRS day 10,WRS day 30,GHQ,daysUsingApp
 A,50,2,18,24,24,16,14,11,71,80,85,3,20
 A,38,1,23,25,24,13,12,14,63,67,62,8,11
 A,38,2,23,21,31,19,18,3,69,79,92,2,13
